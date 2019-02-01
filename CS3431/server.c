@@ -1,3 +1,8 @@
+/**
+* Author: Peng
+* Copyright 2018
+*/
+
 #include <pthread.h>
 #include <time.h>
 #include <stdio.h>
